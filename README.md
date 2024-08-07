@@ -1,5 +1,8 @@
-- 👁👁 Gotcha!
--  👤 My name is Max?
--  🍥 I'm backend engineer and I like writing code using Go and PHP
+📸 Gotcha!
+  
+  About me:
+- 🍎 Focus: **Backend**
+- 🥝 Main Stack: **Go**, **PHP**, **JS/Vue**
+- 🍥 Interested in InfoSec, Blockchain & DeFi
 
- Next will be someday...
+End or not quite...
